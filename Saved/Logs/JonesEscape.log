@@ -1,4 +1,4 @@
-﻿Log file open, 09/24/19 14:09:09
+﻿Log file open, 09/24/19 14:28:40
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: JonesEscape
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.069309
+LogStats: Stats thread started at 0.063276
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -157,452 +157,456 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:660][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.09.24-18.09.09:660][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:660][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:662][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.24-18.09.09:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.24-18.09.09:663][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.24-18.09.09:663][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.24-18.09.09:663][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.09.24-18.09.09:666][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.09.24-18.09.09:666][  0]LogInit: Going up to parent DeviceProfile []
-[2019.09.24-18.09.09:666][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.24-18.09.09:666][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.09.24-18.09.09:667][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
-[2019.09.24-18.09.09:667][  0]LogInit: Computer: NQSCGL-MSI-12
-[2019.09.24-18.09.09:667][  0]LogInit: User: cjones4
-[2019.09.24-18.09.09:667][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.09.24-18.09.09:667][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.09.24-18.09.09:667][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2019.09.24-18.09.09:667][  0]LogMemory: Platform Memory Stats for Windows
-[2019.09.24-18.09.09:667][  0]LogMemory: Process Physical Memory: 103.25 MB used, 103.26 MB peak
-[2019.09.24-18.09.09:667][  0]LogMemory: Process Virtual Memory: 99.02 MB used, 99.02 MB peak
-[2019.09.24-18.09.09:667][  0]LogMemory: Physical Memory: 6564.42 MB used,  26148.11 MB free, 32712.53 MB total
-[2019.09.24-18.09.09:667][  0]LogMemory: Virtual Memory: 4667.51 MB used,  134213064.00 MB free, 134217728.00 MB total
-[2019.09.24-18.09.09:670][  0]LogWindows: WindowsPlatformFeatures enabled
-[2019.09.24-18.09.09:690][  0]LogInit: Using OS detected language (en-US).
-[2019.09.24-18.09.09:690][  0]LogInit: Using OS detected locale (en-US).
-[2019.09.24-18.09.09:691][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.09.24-18.09.09:842][  0]LogInit: Setting process to per monitor DPI aware
-[2019.09.24-18.09.09:871][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.09.24-18.09.09:871][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.09.24-18.09.10:048][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.09.24-18.09.10:048][  0]LogD3D11RHI: D3D11 adapters:
-[2019.09.24-18.09.10:117][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2019.09.24-18.09.10:117][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.09.24-18.09.10:120][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.09.24-18.09.10:120][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.09.24-18.09.10:120][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.09.24-18.09.10:126][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.09.24-18.09.10:126][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2019.09.24-18.09.10:126][  0]LogWindows: EnumDisplayDevices:
-[2019.09.24-18.09.10:126][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2019.09.24-18.09.10:126][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.09.24-18.09.10:127][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.09.24-18.09.10:127][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.09.24-18.09.10:127][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2019.09.24-18.09.10:127][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2019.09.24-18.09.10:127][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
-[2019.09.24-18.09.10:127][  0]LogD3D11RHI:      Driver Date: 5-22-2019
-[2019.09.24-18.09.10:127][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
-[2019.09.24-18.09.10:176][  0]LogD3D11RHI: Async texture creation enabled
-[2019.09.24-18.09.10:187][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2019.09.24-18.09.10:523][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.09.24-18.09.10:531][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.09.24-18.09.10:539][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.09.24-18.09.10:548][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.09.24-18.09.10:556][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.09.24-18.09.10:564][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.09.24-18.09.10:572][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.09.24-18.09.10:580][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.09.24-18.09.10:584][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.09.24-18.09.10:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.09.24-18.09.10:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.09.24-18.09.10:613][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.09.24-18.09.10:629][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.09.24-18.09.10:629][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.09.24-18.09.10:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.09.24-18.09.10:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.09.24-18.09.10:648][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.09.24-18.09.10:655][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.09.24-18.09.10:660][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.09.24-18.09.10:667][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.09.24-18.09.10:688][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.09.24-18.09.10:688][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.09.24-18.09.10:688][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.09.24-18.09.10:697][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.09.24-18.09.10:747][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Intermediate/Shaders/WorkingDirectory/8140/).
-[2019.09.24-18.09.10:748][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cjones4/AppData/Local/Temp/UnrealShaderWorkingDir/6078C62A48D2CDD5BB6566A1959A4F3C/'.
-[2019.09.24-18.09.10:750][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.09.24-18.09.10:750][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.09.24-18.09.10:750][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.09.24-18.09.11:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.09.24-18.09.11:339][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
-[2019.09.24-18.09.11:339][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
-[2019.09.24-18.09.11:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.09.24-18.09.11:340][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.09.24-18.09.11:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.24-18.09.11:340][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.09.24-18.09.11:349][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.09.24-18.09.11:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.24-18.09.11:349][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.09.24-18.09.11:350][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cjones4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.09.24-18.09.11:351][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.09.24-18.09.11:351][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.09.24-18.09.11:368][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.09.24-18.09.11:370][  0]LogSlate: Using FreeType 2.6.0
-[2019.09.24-18.09.11:371][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.09.24-18.09.11:427][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
-[2019.09.24-18.09.11:652][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.24-18.09.11:822][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.09.24-18.09.11:822][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.09.24-18.09.11:822][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.09.24-18.09.11:822][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.09.24-18.09.11:822][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.09.24-18.09.11:830][  0]LogNetVersion: JonesEscape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1339849860)
-[2019.09.24-18.09.12:294][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.143713 seconds
-[2019.09.24-18.09.12:300][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
-[2019.09.24-18.09.12:300][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
-[2019.09.24-18.09.12:300][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.09.24-18.09.13:241][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.09.24-18.09.13:268][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.09.24-18.09.13:346][  0]SourceControl: Source control is disabled
-[2019.09.24-18.09.13:346][  0]SourceControl: Source control is disabled
-[2019.09.24-18.09.13:347][  0]SourceControl: Source control is disabled
-[2019.09.24-18.09.13:348][  0]SourceControl: Source control is disabled
-[2019.09.24-18.09.13:355][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.09.24-18.09.13:356][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.09.24-18.09.13:430][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.09.24-18.09.13:597][  0]LogOcInput: OculusInput pre-init called
-[2019.09.24-18.09.13:603][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2019.09.24-18.09.13:603][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2019.09.24-18.09.13:664][  0]LogEngine: Initializing Engine...
-[2019.09.24-18.09.13:665][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.09.24-18.09.13:666][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2019.09.24-18.09.13:854][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.09.24-18.09.13:869][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.09.24-18.09.13:910][  0]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.24-18.09.13:928][  0]LogInit: FAudioDevice initialized.
-[2019.09.24-18.09.13:928][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.09.24-18.09.14:029][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
-[2019.09.24-18.09.14:031][  0]LogInit: Texture streaming: Enabled
-[2019.09.24-18.09.14:051][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.09.24-18.09.14:070][  0]LogInit: Transaction tracking system initialized
-[2019.09.24-18.09.14:099][  0]BlueprintLog: New page: Editor Load
-[2019.09.24-18.09.14:195][  0]LocalizationService: Localization service is disabled
-[2019.09.24-18.09.14:283][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.09.24-18.09.14:284][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.09.24-18.09.14:428][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/' took 0.00s
-[2019.09.24-18.09.14:428][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.09.24-18.09.14:428][  0]LogCook: Display: Mobile HDR setting 1
-[2019.09.24-18.09.14:606][  0]SourceControl: Source control is disabled
-[2019.09.24-18.09.14:606][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.09.24-18.09.14:607][  0]LightingResults: New page: Lighting Build
-[2019.09.24-18.09.14:610][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2019.09.24-18.09.14:610][  0]MapCheck: New page: Map Check
-[2019.09.24-18.09.14:610][  0]LightingResults: New page: Lighting Build
-[2019.09.24-18.09.14:630][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
-[2019.09.24-18.09.16:963][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
-[2019.09.24-18.09.16:992][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2019.09.24-18.09.17:005][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.09.24-18.09.17:028][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
-[2019.09.24-18.09.17:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.09.24-18.09.17:028][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
-[2019.09.24-18.09.17:028][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.423
-[2019.09.24-18.09.17:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.24-18.09.17:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.24-18.09.17:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.24-18.09.17:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.24-18.09.17:265][  0]LogCollectionManager: Loaded 0 collections in 0.001793 seconds
-[2019.09.24-18.09.17:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Collections/' took 0.00s
-[2019.09.24-18.09.17:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/Developers/cjones4/Collections/' took 0.00s
-[2019.09.24-18.09.17:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/Collections/' took 0.00s
-[2019.09.24-18.09.17:286][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2019.09.24-18.09.17:293][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2863 classes and 680 folders.
-[2019.09.24-18.09.17:299][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.09.24-18.09.17:339][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.09.24-18.09.17:694][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2019.09.24-18.09.17:708][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.09.24-18.09.17:709][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.09.24-18.09.17:737][  0]LogSlate: Took 0.023982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.09.24-18.09.17:836][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
-[2019.09.24-18.09.17:958][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2019.09.24-18.09.18:015][  0]LogSlate: Window 'Tutorials' being destroyed
-[2019.09.24-18.09.18:025][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.09.24-18.09.18:025][  0]LogLoad: (Engine Initialization) Total time: 9.54 seconds
-[2019.09.24-18.09.18:025][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.09.24-18.09.18:069][  0]LogAssetRegistry: Asset discovery search completed in 6.6419 seconds
-[2019.09.24-18.09.18:072][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
-[2019.09.24-18.09.18:072][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
-[2019.09.24-18.09.18:073][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.09.24-18.09.18:090][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.24-18.09.48:237][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.24-18.14.28:005][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.24-18.15.12:291][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.24-18.15.20:269][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
-[2019.09.24-18.16.19:529][287]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2019.09.24-18.16.22:398][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
-[2019.09.24-18.16.24:469][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.24-18.16.28:199][299]LogSlate: Took 0.020501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2019.09.24-18.18.36:099][901]LogTemp: Repeating last play command: Selected Viewport
-[2019.09.24-18.18.36:102][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2019.09.24-18.18.36:102][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.09.24-18.18.36:132][901]PIE: New page: PIE session: FirstPersonExampleMap (Sep 24, 2019, 10:18:36 AM)
-[2019.09.24-18.18.36:133][901]LogOnline: OSS: Creating online subsystem instance for: NULL
-[2019.09.24-18.18.36:133][901]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2019.09.24-18.18.36:146][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012721s)
-[2019.09.24-18.18.36:147][901]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2019.09.24-18.18.36:147][901]LogPlayLevel: PIE: World Init took: (0.001384s)
-[2019.09.24-18.18.36:147][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014404s)
-[2019.09.24-18.18.36:167][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
-[2019.09.24-18.18.36:198][901]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.24-18.18.36:210][901]LogInit: FAudioDevice initialized.
-[2019.09.24-18.18.36:220][901]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2019.09.24-18.18.36:235][901]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.24-14.18.36
-[2019.09.24-18.18.36:235][901]LogWorld: Bringing up level for play took: 0.001848
-[2019.09.24-18.18.36:236][901]LogOnline: OSS: Creating online subsystem instance for: :Context_3
-[2019.09.24-18.18.36:289][901]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
-[2019.09.24-18.18.36:289][901]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.211
-[2019.09.24-18.18.36:289][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2019.09.24-18.19.21:520][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2019.09.24-18.19.21:520][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.24-18.19.21:520][309]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2019.09.24-18.19.21:520][309]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
-[2019.09.24-18.19.21:526][309]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.09.24-18.19.21:526][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2019.09.24-18.19.21:552][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.24-18.19.21:555][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
-[2019.09.24-18.19.21:619][315]LogPlayLevel: Display: Destroying online subsystem :Context_3
-[2019.09.24-18.19.56:937][868]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.24-18.21.12:063][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.24-18.28.40:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:874][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:876][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.24-18.28.40:877][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:877][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.24-18.28.40:878][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.24-18.28.40:878][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.24-18.28.40:878][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.24-18.28.40:881][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.24-18.28.40:881][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.24-18.28.40:881][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.24-18.28.40:881][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.24-18.28.40:882][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.09.24-18.28.40:882][  0]LogInit: Computer: NQSCGL-MSI-12
+[2019.09.24-18.28.40:882][  0]LogInit: User: cjones4
+[2019.09.24-18.28.40:882][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.24-18.28.40:882][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.24-18.28.40:882][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.24-18.28.40:882][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.24-18.28.40:882][  0]LogMemory: Process Physical Memory: 100.52 MB used, 100.52 MB peak
+[2019.09.24-18.28.40:882][  0]LogMemory: Process Virtual Memory: 88.58 MB used, 88.58 MB peak
+[2019.09.24-18.28.40:882][  0]LogMemory: Physical Memory: 6518.26 MB used,  26194.27 MB free, 32712.53 MB total
+[2019.09.24-18.28.40:882][  0]LogMemory: Virtual Memory: 4656.52 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.09.24-18.28.40:885][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.24-18.28.40:904][  0]LogInit: Using OS detected language (en-US).
+[2019.09.24-18.28.40:904][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.24-18.28.40:905][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.24-18.28.41:059][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.24-18.28.41:090][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.24-18.28.41:090][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.24-18.28.41:271][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.24-18.28.41:271][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.24-18.28.41:334][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.09.24-18.28.41:334][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.24-18.28.41:336][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.24-18.28.41:336][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.24-18.28.41:337][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.24-18.28.41:344][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.24-18.28.41:344][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.24-18.28.41:344][  0]LogWindows: EnumDisplayDevices:
+[2019.09.24-18.28.41:344][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.09.24-18.28.41:344][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.24-18.28.41:345][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.24-18.28.41:345][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.09.24-18.28.41:345][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.24-18.28.41:345][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.09.24-18.28.41:345][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.09.24-18.28.41:345][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.09.24-18.28.41:345][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.09.24-18.28.41:382][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.24-18.28.41:393][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.24-18.28.41:717][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.24-18.28.41:725][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.24-18.28.41:733][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.24-18.28.41:740][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.24-18.28.41:748][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.24-18.28.41:756][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.24-18.28.41:764][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.24-18.28.41:772][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.24-18.28.41:776][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.24-18.28.41:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.24-18.28.41:806][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.24-18.28.41:821][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.24-18.28.41:821][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.24-18.28.41:833][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.24-18.28.41:833][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.24-18.28.41:839][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.24-18.28.41:846][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.24-18.28.41:852][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.24-18.28.41:859][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.24-18.28.41:880][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.24-18.28.41:880][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.24-18.28.41:880][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.24-18.28.41:888][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.24-18.28.41:937][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Intermediate/Shaders/WorkingDirectory/3784/).
+[2019.09.24-18.28.41:937][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cjones4/AppData/Local/Temp/UnrealShaderWorkingDir/03EC21224C643193DE48F9BBA2746A54/'.
+[2019.09.24-18.28.41:940][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.24-18.28.41:940][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.24-18.28.41:940][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.24-18.28.42:495][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.24-18.28.42:537][  0]LogDerivedDataCache: Loaded boot cache 0.04s 74MB C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.24-18.28.42:537][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.24-18.28.42:537][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.24-18.28.42:537][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.24-18.28.42:537][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.24-18.28.42:537][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.24-18.28.42:547][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.24-18.28.42:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.24-18.28.42:547][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.24-18.28.42:548][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cjones4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.24-18.28.42:548][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.24-18.28.42:548][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.24-18.28.42:566][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.24-18.28.42:568][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.24-18.28.42:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.24-18.28.42:626][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.09.24-18.28.42:851][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.24-18.28.42:977][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.24-18.28.42:977][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.24-18.28.42:977][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.24-18.28.42:977][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.24-18.28.42:977][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.24-18.28.42:985][  0]LogNetVersion: JonesEscape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1339849860)
+[2019.09.24-18.28.43:321][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.036021 seconds
+[2019.09.24-18.28.43:327][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.24-18.28.43:327][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.24-18.28.43:327][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.24-18.28.44:128][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.24-18.28.44:130][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.24-18.28.44:175][  0]SourceControl: Source control is disabled
+[2019.09.24-18.28.44:175][  0]SourceControl: Source control is disabled
+[2019.09.24-18.28.44:176][  0]SourceControl: Source control is disabled
+[2019.09.24-18.28.44:177][  0]SourceControl: Source control is disabled
+[2019.09.24-18.28.44:184][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.24-18.28.44:184][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.24-18.28.44:254][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.24-18.28.44:423][  0]LogOcInput: OculusInput pre-init called
+[2019.09.24-18.28.44:430][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.24-18.28.44:430][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.24-18.28.44:488][  0]LogEngine: Initializing Engine...
+[2019.09.24-18.28.44:489][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.24-18.28.44:489][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.24-18.28.44:669][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.24-18.28.44:684][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.24-18.28.44:718][  0]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.24-18.28.44:735][  0]LogInit: FAudioDevice initialized.
+[2019.09.24-18.28.44:735][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.24-18.28.44:839][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.24-18.28.44:840][  0]LogInit: Texture streaming: Enabled
+[2019.09.24-18.28.44:859][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.24-18.28.44:899][  0]LogInit: Transaction tracking system initialized
+[2019.09.24-18.28.44:927][  0]BlueprintLog: New page: Editor Load
+[2019.09.24-18.28.45:001][  0]LocalizationService: Localization service is disabled
+[2019.09.24-18.28.45:057][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.24-18.28.45:058][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.24-18.28.45:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/' took 0.00s
+[2019.09.24-18.28.45:198][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.24-18.28.45:198][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.24-18.28.45:359][  0]SourceControl: Source control is disabled
+[2019.09.24-18.28.45:359][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.24-18.28.45:359][  0]LightingResults: New page: Lighting Build
+[2019.09.24-18.28.45:362][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.24-18.28.45:362][  0]MapCheck: New page: Map Check
+[2019.09.24-18.28.45:362][  0]LightingResults: New page: Lighting Build
+[2019.09.24-18.28.45:384][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.09.24-18.28.45:630][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.24-18.28.45:642][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.24-18.28.45:667][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.09.24-18.28.45:667][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.24-18.28.45:667][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2019.09.24-18.28.45:667][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.308
+[2019.09.24-18.28.45:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-18.28.45:747][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-18.28.45:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-18.28.45:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-18.28.45:763][  0]LogCollectionManager: Loaded 0 collections in 0.001792 seconds
+[2019.09.24-18.28.45:768][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Collections/' took 0.00s
+[2019.09.24-18.28.45:768][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/Developers/cjones4/Collections/' took 0.00s
+[2019.09.24-18.28.45:768][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/Collections/' took 0.00s
+[2019.09.24-18.28.45:768][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.24-18.28.45:775][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2863 classes and 680 folders.
+[2019.09.24-18.28.45:780][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.24-18.28.45:819][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.24-18.28.45:840][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.24-18.28.45:852][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.24-18.28.45:854][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.24-18.28.45:857][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.24-18.28.45:911][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.09.24-18.28.46:000][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.24-18.28.46:000][  0]LogLoad: (Engine Initialization) Total time: 6.16 seconds
+[2019.09.24-18.28.46:000][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.24-18.28.46:040][  0]LogAssetRegistry: Asset discovery search completed in 3.4151 seconds
+[2019.09.24-18.28.46:043][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.09.24-18.28.46:043][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2019.09.24-18.28.46:044][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.24-18.28.46:071][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.24-18.31.11:944][696]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.32.19:154][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.24-18.32.21:872][763]UATHelper: Packaging (HTML5): Running AutomationTool...
+[2019.09.24-18.32.22:094][787]UATHelper: Packaging (HTML5): Parsing command line: -ScriptsForProject="C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/JonesEscape.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/cjones4/Documents/Unreal Projects/JonesEscape/JonesEscape.uproject" -cook -stage -archive -archivedirectory="C:/Users/cjones4/Documents/Unreal Projects/JonesEscape" -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -prereqs -nodebuginfo -targetplatform=HTML5 -utf8output
+[2019.09.24-18.32.23:477][953]UATHelper: Packaging (HTML5): Setting up ProjectParams for C:\Users\cjones4\Documents\Unreal Projects\JonesEscape\JonesEscape.uproject
+[2019.09.24-18.32.24:172][ 36]UATHelper: Packaging (HTML5): ********** COOK COMMAND STARTED **********
+[2019.09.24-18.32.24:180][ 37]UATHelper: Packaging (HTML5): Running UE4Editor Cook for project C:\Users\cjones4\Documents\Unreal Projects\JonesEscape\JonesEscape.uproject
+[2019.09.24-18.32.24:185][ 37]UATHelper: Packaging (HTML5): ERROR: Cook failed.
+[2019.09.24-18.32.24:185][ 37]UATHelper: Packaging (HTML5):        (see C:\Users\cjones4\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.09.24-18.32.24:185][ 37]PackagingResults: Error: Cook failed.
+[2019.09.24-18.32.24:389][ 62]UATHelper: Packaging (HTML5): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.09.24-18.32.24:414][ 65]UATHelper: Packaging (HTML5): BUILD FAILED
+[2019.09.24-18.32.24:414][ 65]PackagingResults: Error: Unknown Cook Failure
+[2019.09.24-18.32.45:255][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.32.45:391][578]LogSlate: Took 0.016086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.09.24-18.56.39:237][619]LogSlate: Window 'Output Log' being destroyed
+[2019.09.24-18.56.39:242][619]LogSlate: Window 'Output Log' being destroyed
+[2019.09.24-18.56.41:218][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.57.17:404][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B588C1661-4A7D-564D-CB8D-70A0BA1DEAEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=27c9c3814f63f154035dc9a7604b1745%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: request failed, libcurl error: 0 (No error)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ca7bde7f70 [can pipeline])
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.42.24) port 443 (#10))
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 7 (Closing connection 10)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: 000001CA19767B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-19.00.46:011][544]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B588C1661-4A7D-564D-CB8D-70A0BA1DEAEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=27c9c3814f63f154035dc9a7604b1745%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-19.02.48:777][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.04.15:771][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.04.19:506][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.04.23:940][686]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.24-19.04.40:176][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.04.54:313][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.24-19.05.25:704][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.05.33:845][ 31]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.05.47:043][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.24-19.05.50:816][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.05.54:196][445]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.07.12:393][809]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.24-19.07.21:370][883]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.07.21:406][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.09.24-19.07.21:519][883]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/FirstPersonExampleMap_Auto18DE7964B489C1633F5E33FAC040B04E1.tmp' to '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.09.24-19.07.21:522][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.137
+[2019.09.24-19.07.21:522][883]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.137
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B588C1661-4A7D-564D-CB8D-70A0BA1DEAEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=27c9c3814f63f154035dc9a7604b1745%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: request failed, libcurl error: 0 (No error)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ca7bde7f70 [can pipeline])
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.233.90.22) port 443 (#12))
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 7 (Closing connection 12)
+[2019.09.24-19.08.46:017][ 21]LogHttp: Warning: 000001CA1910DF80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-19.08.46:025][ 22]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B588C1661-4A7D-564D-CB8D-70A0BA1DEAEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=27c9c3814f63f154035dc9a7604b1745%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-19.11.29:675][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.24-19.14.19:101][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.14.19:203][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.09.24-19.14.22:696][992]LogSlate: Window 'Save Content' being destroyed
+[2019.09.24-19.14.22:706][992]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.14.22:733][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.09.24-19.14.22:846][992]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/FirstPersonExampleMap0F1F727949DAA8A1FDFC76A857E4A76D.tmp' to '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.09.24-19.14.22:861][992]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.147
