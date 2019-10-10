@@ -1017,3 +1017,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.10-19.14.03:789][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.10-19.14.03:792][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 [2019.10.10-19.14.03:859][881]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.10-19.15.49:033][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-19.15.50:450][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.15.50:544][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
