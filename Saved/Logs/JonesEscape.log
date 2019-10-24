@@ -810,3 +810,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-18.44.31:118][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2019.10.24-18.44.33:081][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
 [2019.10.24-18.44.46:380][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.10.24-18.45.42:063][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.45.50:861][647]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2019.10.24-18.45.50:864][647]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.10.24-18.45.51:385][647]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.10.24-18.45.51:467][647]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.24-18.45.51:467][647]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.24-18.45.51:467][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.24-18.45.51:467][647]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.24-18.45.51:467][647]LogSlate: Took 0.046350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.24-18.45.53:043][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.24-18.45.53:043][768]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-18.45.53:087][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.24-18.45.53:087][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.24-18.45.53:233][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.24-18.45.53:326][792]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.24-18.45.53:326][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.24-18.45.53:326][792]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.24-18.45.53:447][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.10.24-18.45.53:638][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.24-18.45.53:857][833]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.24-18.45.53:884][835]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.24-18.45.53:969][842]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.24-18.45.54:153][856]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.24-18.45.54:180][858]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.24-18.45.54:434][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.24-18.45.54:434][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.24-18.45.54:838][915]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.10.24-18.45.54:838][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.10.24-18.45.54:838][915]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.10.24-18.45.54:838][915]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.24-18.45.56:991][151]LogSlate: Window 'NewMaterial' being destroyed
+[2019.10.24-18.45.56:995][151]LogSlate: Window 'NewMaterial' being destroyed
+[2019.10.24-18.45.57:014][151]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-18.46.01:464][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.24-18.46.04:212][650]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-18.46.04:259][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.24-18.47.03:789][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.24-18.48.19:181][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2019.10.24-18.48.49:049][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.48.54:163][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-18.48.57:972][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2019.10.24-18.48.59:732][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-18.49.28:184][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.54.23:751][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2019.10.24-18.56.08:258][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-18.56.14:989][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2019.10.24-18.56.25:389][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2019.10.24-18.56.35:241][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-18.56.44:562][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.57.32:059][827]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.24-18.57.32:094][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.24-18.57.32:222][827]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/FirstPersonExampleMap_Auto33ECCB43A4C03BCF5A5EED7B83C3A4D29.tmp' to '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.10.24-18.57.32:225][827]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.151
+[2019.10.24-18.57.32:225][827]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2019.10.24-19.01.06:460][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.07.57:272][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.10.24-19.07.58:311][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.07.58:394][733]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-19.07.58:401][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.07.58:401][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-19.07.58:401][733]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 11:07:58 AM)
+[2019.10.24-19.07.58:401][733]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-19.07.58:413][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012177s)
+[2019.10.24-19.07.58:414][733]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-19.07.58:414][733]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2019.10.24-19.07.58:415][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013678s)
+[2019.10.24-19.07.58:436][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.24-19.07.58:470][733]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-19.07.58:483][733]LogInit: FAudioDevice initialized.
+[2019.10.24-19.07.58:490][733]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-19.07.58:493][733]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-15.07.58
+[2019.10.24-19.07.58:493][733]LogWorld: Bringing up level for play took: 0.002144
+[2019.10.24-19.07.58:493][733]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.24-19.07.58:495][733]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.064
+[2019.10.24-19.07.58:495][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.08.00:806][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.08.00:806][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.08.00:806][  7]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-19.08.00:806][  7]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-19.08.00:816][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.08.00:817][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.08.00:841][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.08.00:843][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.24-19.08.00:912][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.24-19.08.15:019][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.09.02:617][414]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.10.24-19.09.10:067][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.09.19:885][463]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.10.24-19.09.21:124][608]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2019.10.24-19.09.25:946][179]LogSlate: Took 0.023823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.24-19.09.51:640][255]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.10.24-19.10.03:221][640]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2019.10.24-19.10.08:125][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.10.19:953][639]Cmd: DELETE
+[2019.10.24-19.10.19:953][639]Cmd: ACTOR DELETE
+[2019.10.24-19.10.19:955][639]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.10.24-19.10.19:976][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.10.24-19.10.19:976][639]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.24-19.10.23:968][118]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.10.24-19.10.25:583][308]Cmd: DELETE
+[2019.10.24-19.10.25:583][308]Cmd: ACTOR DELETE
+[2019.10.24-19.10.25:584][308]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.10.24-19.10.25:603][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.24-19.10.25:603][308]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.10.24-19.11.12:762][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.11.12:864][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.24-19.11.15:462][974]LogSlate: Window 'Save Content' being destroyed
+[2019.10.24-19.11.15:472][974]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.24-19.11.15:499][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.24-19.11.15:628][974]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Saved/FirstPersonExampleMapB2D2874446499778B57DAB8BD9D85EC5.tmp' to '../../../../../../Users/cjones4/Documents/Unreal Projects/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-19.11.15:644][974]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.165
