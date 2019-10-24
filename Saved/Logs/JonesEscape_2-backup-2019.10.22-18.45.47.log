@@ -1,0 +1,1022 @@
+﻿Log file open, 10/10/19 14:00:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JonesEscape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.517155
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.10-18.00.12:261][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.10-18.00.12:262][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.10-18.00.12:262][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.10-18.00.12:262][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.10-18.00.12:262][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.10-18.00.12:262][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.10-18.00.12:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:262][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:265][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.10-18.00.12:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.10-18.00.12:266][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.10-18.00.12:266][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.10-18.00.12:266][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.10-18.00.12:300][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.10-18.00.12:300][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.10-18.00.12:300][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.10-18.00.12:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.10-18.00.12:301][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.10-18.00.12:315][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.10-18.00.12:315][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.10-18.00.12:315][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.10-18.00.12:315][  0]LogInit: Computer: NQSCGL-MSI-12
+[2019.10.10-18.00.12:315][  0]LogInit: User: cjones4
+[2019.10.10-18.00.12:315][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.10-18.00.12:315][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.10-18.00.12:315][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.10-18.00.12:315][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.10-18.00.12:315][  0]LogMemory: Process Physical Memory: 100.46 MB used, 100.46 MB peak
+[2019.10.10-18.00.12:315][  0]LogMemory: Process Virtual Memory: 88.51 MB used, 88.51 MB peak
+[2019.10.10-18.00.12:315][  0]LogMemory: Physical Memory: 5718.77 MB used,  26993.75 MB free, 32712.53 MB total
+[2019.10.10-18.00.12:315][  0]LogMemory: Virtual Memory: 4656.52 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.10-18.00.12:349][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.10-18.00.13:514][  0]LogInit: Using OS detected language (en-US).
+[2019.10.10-18.00.13:514][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.10-18.00.13:514][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.10-18.00.14:509][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.10-18.00.14:913][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.10-18.00.14:913][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.10-18.00.17:028][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.10-18.00.17:028][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.10-18.00.17:136][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.10-18.00.17:136][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.10-18.00.17:138][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.10-18.00.17:138][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.10-18.00.17:138][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.10-18.00.17:144][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.10-18.00.17:144][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.10-18.00.17:144][  0]LogWindows: EnumDisplayDevices:
+[2019.10.10-18.00.17:144][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.10-18.00.17:145][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.10-18.00.17:145][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.10-18.00.17:146][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.10-18.00.17:147][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.10-18.00.17:147][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.10-18.00.17:147][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.10.10-18.00.17:147][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.10.10-18.00.17:147][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.10-18.00.17:188][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.10-18.00.17:202][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.10-18.00.18:760][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.10-18.00.18:916][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.10-18.00.19:064][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.10-18.00.19:163][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.10-18.00.19:318][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.10-18.00.19:395][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.10-18.00.19:486][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.10-18.00.19:583][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.10-18.00.19:727][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.10-18.00.19:886][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.10-18.00.20:014][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.10-18.00.20:423][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.10-18.00.20:423][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.10-18.00.20:503][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.10-18.00.20:503][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.10-18.00.20:670][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.10-18.00.20:821][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.10-18.00.20:960][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.10-18.00.21:119][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.10-18.00.21:266][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.10-18.00.21:266][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.10-18.00.21:266][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.10-18.00.21:657][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.10-18.00.24:829][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/Shaders/WorkingDirectory/12756/).
+[2019.10.10-18.00.24:829][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cjones4/AppData/Local/Temp/UnrealShaderWorkingDir/672D0E7948641206ACE99CA60864821E/'.
+[2019.10.10-18.00.24:832][  0]LogXGEController: Cleaning working directory: C:/Users/cjones4/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.10-18.00.24:832][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.10-18.00.24:832][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.10-18.00.24:832][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.10-18.00.30:136][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.10-18.00.31:215][  0]LogDerivedDataCache: Loaded boot cache 1.08s 73MB C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.10-18.00.31:215][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.10-18.00.31:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.10-18.00.31:215][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.10-18.00.31:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.10-18.00.31:215][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.10-18.00.31:479][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.10-18.00.31:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.10-18.00.31:479][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.10-18.00.31:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cjones4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.10-18.00.31:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.10-18.00.31:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.10-18.00.31:503][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.10-18.00.31:506][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.10-18.00.31:528][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.10-18.00.34:122][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.10.10-18.00.34:581][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.10-18.00.38:317][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/CachedAssetRegistry.bin
+[2019.10.10-18.00.38:317][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.10-18.00.38:317][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.10-18.00.38:317][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.10-18.00.38:317][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.10-18.00.38:317][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.10-18.00.38:608][  0]LogNetVersion: JonesEscape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1339849860)
+[2019.10.10-18.00.42:037][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/2657c409.bin
+[2019.10.10-18.00.42:045][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2019.10.10-18.00.42:048][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.42:549][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2019.10.10-18.00.42:549][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.43:050][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.43:551][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.44:052][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.44:552][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.45:053][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.45:554][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.46:055][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.46:556][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.47:056][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2019.10.10-18.00.47:556][  0]LogFileManager: Error: Error moving file '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Intermediate/AssetRegistryCache/6bead350.bin'.
+[2019.10.10-18.00.47:585][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 5.550261 seconds
+[2019.10.10-18.00.47:591][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.10-18.00.47:591][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.10-18.00.47:591][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.10-18.01.25:466][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.10-18.01.25:562][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.10-18.01.26:925][  0]SourceControl: Source control is disabled
+[2019.10.10-18.01.26:925][  0]SourceControl: Source control is disabled
+[2019.10.10-18.01.27:067][  0]SourceControl: Source control is disabled
+[2019.10.10-18.01.27:188][  0]SourceControl: Source control is disabled
+[2019.10.10-18.01.27:539][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.10-18.01.27:540][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.10-18.01.30:451][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.10-18.01.32:289][  0]LogOcInput: OculusInput pre-init called
+[2019.10.10-18.01.32:440][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.10-18.01.32:440][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.10-18.01.32:882][  0]LogEngine: Initializing Engine...
+[2019.10.10-18.01.32:883][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.10-18.01.32:884][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.10-18.01.33:664][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.10-18.01.33:727][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.10-18.01.33:788][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-18.01.34:262][  0]LogInit: FAudioDevice initialized.
+[2019.10.10-18.01.34:263][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.10-18.01.34:557][  0]LogDerivedDataCache: Saved boot cache 0.29s 73MB C:/Users/cjones4/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.10-18.01.34:557][  0]LogInit: Texture streaming: Enabled
+[2019.10.10-18.01.34:674][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.10-18.01.35:142][  0]LogInit: Transaction tracking system initialized
+[2019.10.10-18.01.35:690][  0]BlueprintLog: New page: Editor Load
+[2019.10.10-18.01.37:115][  0]LocalizationService: Localization service is disabled
+[2019.10.10-18.01.38:440][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.10-18.01.38:441][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.10-18.01.39:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/GitHub/JonesEscape/Content/' took 0.00s
+[2019.10.10-18.01.39:580][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.10-18.01.39:580][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.10-18.01.43:399][  0]SourceControl: Source control is disabled
+[2019.10.10-18.01.43:399][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.10-18.01.43:400][  0]LightingResults: New page: Lighting Build
+[2019.10.10-18.01.43:403][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-18.01.43:403][  0]MapCheck: New page: Map Check
+[2019.10.10-18.01.43:403][  0]LightingResults: New page: Lighting Build
+[2019.10.10-18.01.43:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.10.10-18.01.45:848][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.10-18.01.45:942][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.10-18.01.45:969][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.10-18.01.45:969][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.10-18.01.45:969][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2019.10.10-18.01.45:969][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.571
+[2019.10.10-18.01.46:157][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.01.46:163][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.01.46:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.01.46:175][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.01.46:285][  0]LogCollectionManager: Loaded 0 collections in 0.002188 seconds
+[2019.10.10-18.01.46:291][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/GitHub/JonesEscape/Saved/Collections/' took 0.00s
+[2019.10.10-18.01.46:291][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/GitHub/JonesEscape/Content/Developers/cjones4/Collections/' took 0.00s
+[2019.10.10-18.01.46:291][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjones4/Documents/GitHub/JonesEscape/Content/Collections/' took 0.00s
+[2019.10.10-18.01.46:291][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.10-18.01.46:298][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2863 classes and 680 folders.
+[2019.10.10-18.01.46:305][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.10-18.01.46:985][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.10-18.01.47:053][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.10-18.01.47:104][  0]LogSlate: Took 0.038330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.10-18.01.47:145][  0]LogSlate: Took 0.038697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.10-18.01.47:172][  0]LogSlate: Took 0.023926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.10-18.01.47:221][  0]LogRenderer: Reallocating scene render targets to support 512x276 Format 10 NumSamples 1 (Frame:1).
+[2019.10.10-18.01.47:559][  0]LogSlate: Took 0.056231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.10-18.01.47:978][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.10-18.01.47:978][  0]LogLoad: (Engine Initialization) Total time: 109.69 seconds
+[2019.10.10-18.01.47:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.10-18.01.48:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.10-18.01.48:322][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.10-18.01.50:195][ 28]LogAssetRegistry: Asset discovery search completed in 76.0751 seconds
+[2019.10.10-18.01.50:198][ 28]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2019.10.10-18.02.40:054][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.03.13:306][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.10.10-18.03.15:408][236]Cmd: EDIT COPY
+[2019.10.10-18.03.15:645][264]Cmd: EDIT PASTE
+[2019.10.10-18.03.31:714][165]LogEditorViewport: Clicking Background
+[2019.10.10-18.03.40:719][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2019.10.10-18.03.51:509][531]LogEditorViewport: Clicking Background
+[2019.10.10-18.04.02:022][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2019.10.10-18.04.03:319][944]Cmd: EDIT COPY
+[2019.10.10-18.04.03:614][979]Cmd: EDIT PASTE
+[2019.10.10-18.04.13:312][138]LogEditorViewport: Clicking Background
+[2019.10.10-18.04.22:737][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2019.10.10-18.04.39:743][290]LogEditorViewport: Clicking Background
+[2019.10.10-18.04.59:847][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.10.10-18.05.01:119][848]Cmd: EDIT COPY
+[2019.10.10-18.05.01:398][881]Cmd: EDIT PASTE
+[2019.10.10-18.05.19:488][ 41]LogEditorViewport: Clicking Background
+[2019.10.10-18.05.34:412][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.10-18.06.17:820][ 24]LogEditorViewport: Clicking Background
+[2019.10.10-18.08.18:003][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.10-18.08.42:755][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2019.10.10-18.08.44:102][562]Cmd: EDIT COPY
+[2019.10.10-18.08.44:333][589]Cmd: EDIT PASTE
+[2019.10.10-18.08.59:314][382]Cmd: DELETE
+[2019.10.10-18.08.59:314][382]Cmd: ACTOR DELETE
+[2019.10.10-18.08.59:316][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.10-18.08.59:338][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.10-18.08.59:338][382]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.10-18.09.01:887][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.10-18.11.04:404][364]LogEditorViewport: Clicking Background
+[2019.10.10-18.11.08:384][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.10-18.11.11:502][210]LogEditorViewport: Clicking Background
+[2019.10.10-18.11.20:023][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.10-18.11.30:189][433]LogEditorViewport: Clicking Background
+[2019.10.10-18.11.32:838][750]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.10.10-18.11.39:039][490]Cmd: DELETE
+[2019.10.10-18.11.39:039][490]Cmd: ACTOR DELETE
+[2019.10.10-18.11.39:041][490]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.10.10-18.11.39:059][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.10-18.11.39:060][490]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.10-18.11.54:044][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.10.10-18.12.25:470][ 28]LogEditorViewport: Clicking Background
+[2019.10.10-18.12.30:108][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.10.10-18.12.31:640][764]Cmd: EDIT COPY
+[2019.10.10-18.12.31:878][792]Cmd: EDIT PASTE
+[2019.10.10-18.13.17:079][202]LogEditorViewport: Clicking Background
+[2019.10.10-18.13.25:901][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.10.10-18.13.27:492][447]Cmd: EDIT COPY
+[2019.10.10-18.13.27:722][474]Cmd: EDIT PASTE
+[2019.10.10-18.13.42:012][181]LogEditorViewport: Clicking Background
+[2019.10.10-18.13.47:116][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2019.10.10-18.13.48:597][967]Cmd: EDIT COPY
+[2019.10.10-18.13.48:835][995]Cmd: EDIT PASTE
+[2019.10.10-18.14.14:060][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2019.10.10-18.14.24:316][232]LogEditorViewport: Clicking Background
+[2019.10.10-18.14.30:947][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2019.10.10-18.14.36:340][669]LogEditorViewport: Clicking Background
+[2019.10.10-18.14.37:428][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2019.10.10-18.14.44:336][621]LogEditorViewport: Clicking Background
+[2019.10.10-18.15.04:796][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2019.10.10-18.15.06:066][224]Cmd: EDIT COPY
+[2019.10.10-18.15.06:296][251]Cmd: EDIT PASTE
+[2019.10.10-18.15.28:523][908]LogEditorViewport: Clicking Background
+[2019.10.10-18.15.32:678][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2019.10.10-18.15.41:385][446]Cmd: DELETE
+[2019.10.10-18.15.41:385][446]Cmd: ACTOR DELETE
+[2019.10.10-18.15.41:387][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.10-18.15.41:407][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.10.10-18.15.41:407][446]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.10-18.15.57:549][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2019.10.10-18.16.00:672][752]LogEditorViewport: Clicking Background
+[2019.10.10-18.16.02:577][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2019.10.10-18.16.04:058][154]Cmd: EDIT COPY
+[2019.10.10-18.16.04:271][179]Cmd: EDIT PASTE
+[2019.10.10-18.16.14:891][446]LogEditorViewport: Clicking Background
+[2019.10.10-18.16.16:380][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2019.10.10-18.16.30:879][357]LogEditorViewport: Clicking Background
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B505F9EA8-4924-97C4-FAB0-3C8FE88C5C2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=679a10a74ce83ec653ed129b976b11c5%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: request failed, libcurl error: 0 (No error)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x262fe74bf70 [can pipeline])
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#4))
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 7 (Closing connection 4)
+[2019.10.10-18.16.48:016][413]LogHttp: Warning: 00000262E9D43EC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.10-18.16.48:025][414]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B505F9EA8-4924-97C4-FAB0-3C8FE88C5C2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=679a10a74ce83ec653ed129b976b11c5%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.10-18.17.06:119][584]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.10-18.17.15:144][659]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-18.17.15:174][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.10-18.17.15:327][659]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap_Auto1855416514C2DE329EAB0109AF7F1E5EF.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.10-18.17.15:330][659]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.175
+[2019.10.10-18.17.15:330][659]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2019.10.10-18.17.16:549][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2019.10.10-18.17.49:715][770]LogEditorViewport: Clicking Background
+[2019.10.10-18.17.51:395][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2019.10.10-18.18.00:522][ 59]LogEditorViewport: Clicking Background
+[2019.10.10-18.18.16:046][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2019.10.10-18.18.33:436][995]LogEditorViewport: Clicking Background
+[2019.10.10-18.18.42:036][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.10.10-18.18.50:655][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2019.10.10-18.18.55:996][686]Cmd: TRANSACTION UNDO
+[2019.10.10-18.18.55:996][686]LogEditorTransaction: Undo Marquee Select
+[2019.10.10-18.19.03:043][518]LogEditorViewport: Clicking Background
+[2019.10.10-18.19.04:149][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2019.10.10-18.19.09:676][308]LogEditorViewport: Clicking Background
+[2019.10.10-18.19.21:117][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.10.10-18.19.33:065][105]LogEditorViewport: Clicking Background
+[2019.10.10-18.19.51:489][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2019.10.10-18.19.52:964][488]Cmd: EDIT COPY
+[2019.10.10-18.19.53:269][524]Cmd: EDIT PASTE
+[2019.10.10-18.20.03:779][775]LogEditorViewport: Clicking Background
+[2019.10.10-18.20.08:002][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2019.10.10-18.20.30:149][930]LogEditorViewport: Clicking Background
+[2019.10.10-18.20.57:408][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2019.10.10-18.21.39:646][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2019.10.10-18.21.41:074][406]Cmd: EDIT COPY
+[2019.10.10-18.21.41:320][435]Cmd: EDIT PASTE
+[2019.10.10-18.22.12:183][126]Cmd: TRANSACTION UNDO
+[2019.10.10-18.22.12:183][126]LogEditorTransaction: Undo Marquee Select
+[2019.10.10-18.22.24:804][627]LogEditorViewport: Clicking Background
+[2019.10.10-18.26.38:204][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.10.10-18.26.39:804][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2019.10.10-18.26.41:668][439]Cmd: EDIT COPY
+[2019.10.10-18.26.41:932][470]Cmd: EDIT PASTE
+[2019.10.10-18.27.29:676][181]LogEditorViewport: Clicking Background
+[2019.10.10-18.27.38:066][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2019.10.10-18.27.39:362][339]Cmd: EDIT COPY
+[2019.10.10-18.27.39:617][369]Cmd: EDIT PASTE
+[2019.10.10-18.28.14:213][508]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-18.28.14:243][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.10-18.28.14:369][508]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap_Auto25FC5D1D549FC7E8F38E307B7F7CB623B.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.10-18.28.14:372][508]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.149
+[2019.10.10-18.28.14:372][508]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2019.10.10-18.28.18:477][999]LogEditorViewport: Clicking Background
+[2019.10.10-18.28.21:501][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2019.10.10-18.28.37:628][291]LogEditorViewport: Clicking Background
+[2019.10.10-18.28.59:653][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.10.10-18.29.12:631][482]LogEditorViewport: Clicking Background
+[2019.10.10-18.29.13:763][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2019.10.10-18.29.19:772][333]LogEditorViewport: Clicking Background
+[2019.10.10-18.29.38:145][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2019.10.10-18.29.41:419][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2019.10.10-18.29.42:279][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-18.31.41:773][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.10.10-18.32.13:097][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2019.10.10-18.32.15:671][394]Cmd: EDIT COPY
+[2019.10.10-18.32.16:070][441]Cmd: EDIT PASTE
+[2019.10.10-18.32.49:358][420]Cmd: TRANSACTION UNDO
+[2019.10.10-18.32.49:358][420]LogEditorTransaction: Undo Move Actors
+[2019.10.10-18.32.58:447][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2019.10.10-18.33.13:617][316]LogEditorViewport: Clicking Background
+[2019.10.10-18.33.34:033][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2019.10.10-18.33.39:725][442]LogEditorViewport: Clicking Background
+[2019.10.10-18.35.41:454][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2019.10.10-18.35.42:712][192]Cmd: EDIT COPY
+[2019.10.10-18.35.42:925][217]Cmd: EDIT PASTE
+[2019.10.10-18.36.24:160][146]LogEditorViewport: Clicking Background
+[2019.10.10-18.36.32:391][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2019.10.10-18.36.33:805][299]Cmd: EDIT COPY
+[2019.10.10-18.36.34:094][333]Cmd: EDIT PASTE
+[2019.10.10-18.36.45:259][664]LogEditorViewport: Clicking Background
+[2019.10.10-18.36.53:500][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.10.10-18.36.55:496][888]Cmd: EDIT COPY
+[2019.10.10-18.36.55:715][913]Cmd: EDIT PASTE
+[2019.10.10-18.37.10:117][630]LogEditorViewport: Clicking Background
+[2019.10.10-18.37.24:714][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube43)
+[2019.10.10-18.37.26:398][579]Cmd: EDIT COPY
+[2019.10.10-18.37.26:644][608]Cmd: EDIT PASTE
+[2019.10.10-18.37.30:601][ 78]LogEditorViewport: Clicking Background
+[2019.10.10-18.37.40:008][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2019.10.10-18.37.57:858][340]LogEditorViewport: Clicking Background
+[2019.10.10-18.38.04:287][110]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-18.38.04:315][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.10-18.38.04:440][110]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMapD16F064B42202A9C41221F95051AE6F3.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-18.38.04:440][110]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2019.10.10-18.38.04:941][110]LogFileManager: Error: Error deleting file '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'.
+[2019.10.10-18.38.04:941][110]LogSavePackage: Error: Error saving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-18.38.04:948][110]EditorErrors: New page: Save Output
+[2019.10.10-18.38.04:948][110]EditorErrors: Warning: Error saving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-18.38.15:242][342]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-18.38.15:246][342]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-18.38.20:308][949]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-18.38.20:332][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.10-18.38.20:450][949]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap3109331E431FB996828C5D8C81A50D66.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-18.38.20:450][949]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2019.10.10-18.38.20:951][949]LogFileManager: Error: Error deleting file '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'.
+[2019.10.10-18.38.20:951][949]LogSavePackage: Error: Error saving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-18.38.20:955][949]EditorErrors: New page: Save Output
+[2019.10.10-18.38.20:955][949]EditorErrors: Warning: Error saving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-18.38.26:096][564]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-18.38.26:099][564]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-18.39.36:131][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2019.10.10-18.39.37:708][152]LogEditorViewport: Clicking Background
+[2019.10.10-18.39.38:922][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2019.10.10-18.39.44:961][ 18]LogEditorViewport: Clicking Background
+[2019.10.10-18.40.04:302][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2019.10.10-18.40.09:978][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2019.10.10-18.40.20:181][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2019.10.10-18.40.26:482][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2019.10.10-18.40.33:656][839]LogEditorViewport: Clicking Background
+[2019.10.10-18.40.34:821][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2019.10.10-18.40.40:612][667]LogEditorViewport: Clicking Background
+[2019.10.10-18.42.15:315][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-18.42.15:349][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.10-18.42.15:472][ 27]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap_Auto3C53B7EC845B0F3B2207AB3BF484134C3.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.10.10-18.42.15:475][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.146
+[2019.10.10-18.42.15:475][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.146
+[2019.10.10-18.42.31:855][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2019.10.10-18.42.34:734][332]LogEditorViewport: Clicking Background
+[2019.10.10-18.43.28:279][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2019.10.10-18.43.29:840][939]Cmd: EDIT COPY
+[2019.10.10-18.43.30:153][976]Cmd: EDIT PASTE
+[2019.10.10-18.44.01:933][774]LogEditorViewport: Clicking Background
+[2019.10.10-18.44.03:421][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2019.10.10-18.44.06:386][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2019.10.10-18.44.07:891][481]Cmd: EDIT COPY
+[2019.10.10-18.44.08:114][507]Cmd: EDIT PASTE
+[2019.10.10-18.44.15:423][377]LogEditorViewport: Clicking Background
+[2019.10.10-18.44.16:762][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube52)
+[2019.10.10-18.44.27:155][775]LogEditorViewport: Clicking Background
+[2019.10.10-18.44.42:369][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube52)
+[2019.10.10-18.44.44:182][814]Cmd: DELETE
+[2019.10.10-18.44.44:182][814]Cmd: ACTOR DELETE
+[2019.10.10-18.44.44:184][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.10-18.44.44:204][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.10-18.44.44:204][814]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.10-18.44.52:595][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2019.10.10-18.44.57:936][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2019.10.10-18.45.00:111][714]Cmd: EDIT COPY
+[2019.10.10-18.45.00:408][749]Cmd: EDIT PASTE
+[2019.10.10-18.45.08:066][662]LogEditorViewport: Clicking Background
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B505F9EA8-4924-97C4-FAB0-3C8FE88C5C2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=679a10a74ce83ec653ed129b976b11c5%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: request failed, libcurl error: 0 (No error)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x262fe74bf70 [can pipeline])
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 1 (Re-using existing connection! (#16) with host datarouter.ol.epicgames.com)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.198.7) port 443 (#16))
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 7 (Closing connection 16)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: 00000262C1BFF240: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.10-18.49.47:993][250]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B505F9EA8-4924-97C4-FAB0-3C8FE88C5C2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=679a10a74ce83ec653ed129b976b11c5%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.10-18.52.15:330][924]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-18.52.15:358][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.10-18.52.15:484][924]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap_Auto4B55884514B6EE9A663AFA9A8F764408D.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.10.10-18.52.15:486][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.147
+[2019.10.10-18.52.15:486][924]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.147
+[2019.10.10-18.53.09:481][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.53.09:583][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.10-18.53.11:838][679]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.10-18.53.18:895][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.53.18:969][523]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-18.53.18:975][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-18.53.18:975][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-18.53.19:004][523]PIE: New page: PIE session: FirstPersonExampleMap (Oct 10, 2019, 10:53:18 AM)
+[2019.10.10-18.53.19:005][523]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.10-18.53.19:006][523]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-18.53.19:017][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011433s)
+[2019.10.10-18.53.19:018][523]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.10-18.53.19:018][523]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2019.10.10-18.53.19:019][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013018s)
+[2019.10.10-18.53.19:040][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.10-18.53.19:072][523]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-18.53.19:191][523]LogInit: FAudioDevice initialized.
+[2019.10.10-18.53.19:197][523]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-18.53.19:201][523]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.10-14.53.19
+[2019.10.10-18.53.19:201][523]LogWorld: Bringing up level for play took: 0.002333
+[2019.10.10-18.53.19:201][523]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.10-18.53.19:208][523]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.10-18.53.19:208][523]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.448
+[2019.10.10-18.53.19:208][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-18.54.18:592][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-18.54.18:593][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.54.18:593][642]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-18.54.18:593][642]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-18.54.18:599][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-18.54.18:599][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-18.54.18:624][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.54.18:627][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.10-18.54.18:695][648]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.10-18.54.22:023][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.54.22:158][ 63]LogEditorViewport: Clicking Background
+[2019.10.10-18.54.27:012][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.54.31:032][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2019.10.10-18.54.42:470][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2019.10.10-18.55.28:383][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-18.55.32:461][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2019.10.10-18.55.46:175][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2019.10.10-18.56.22:185][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2019.10.10-18.56.39:117][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.10.10-18.56.45:219][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-18.56.50:892][700]Cmd: TRANSACTION UNDO
+[2019.10.10-18.56.50:892][700]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.10-18.56.53:116][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.56.53:196][969]LogEditorViewport: Clicking Background
+[2019.10.10-18.56.54:413][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.58.27:109][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.58.27:211][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2019.10.10-18.58.28:222][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.58.35:686][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.58.38:517][593]Cmd: TRANSACTION UNDO
+[2019.10.10-18.58.38:517][593]LogEditorTransaction: Undo Marquee Select
+[2019.10.10-18.58.42:372][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.59.02:653][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.59.02:750][478]LogEditorViewport: Clicking Background
+[2019.10.10-18.59.33:018][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.10-18.59.48:474][948]LogEditorViewport: Clicking Background
+[2019.10.10-18.59.58:774][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2019.10.10-19.00.01:649][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2019.10.10-19.00.04:602][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2019.10.10-19.00.14:724][ 79]LogEditorViewport: Clicking Background
+[2019.10.10-19.00.20:882][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2019.10.10-19.00.35:587][567]LogEditorViewport: Clicking Background
+[2019.10.10-19.00.38:277][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2019.10.10-19.00.44:044][575]LogEditorViewport: Clicking Background
+[2019.10.10-19.01.24:669][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2019.10.10-19.01.33:878][545]LogEditorViewport: Clicking Background
+[2019.10.10-19.01.34:841][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2019.10.10-19.01.42:861][615]LogEditorViewport: Clicking Background
+[2019.10.10-19.01.54:873][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.10.10-19.02.20:125][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.02.37:143][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-19.02.38:187][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-19.02.38:923][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.02.39:040][311]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-19.02.39:046][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.02.39:046][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-19.02.39:046][311]PIE: New page: PIE session: FirstPersonExampleMap (Oct 10, 2019, 11:02:39 AM)
+[2019.10.10-19.02.39:046][311]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-19.02.39:058][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012073s)
+[2019.10.10-19.02.39:059][311]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.10-19.02.39:060][311]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2019.10.10-19.02.39:060][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013393s)
+[2019.10.10-19.02.39:085][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.10-19.02.39:123][311]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-19.02.39:246][311]LogInit: FAudioDevice initialized.
+[2019.10.10-19.02.39:255][311]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-19.02.39:257][311]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.10-15.02.39
+[2019.10.10-19.02.39:258][311]LogWorld: Bringing up level for play took: 0.002019
+[2019.10.10-19.02.39:258][311]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.10-19.02.39:260][311]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.504
+[2019.10.10-19.02.39:260][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.03.11:625][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.03.11:625][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.03.11:626][189]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-19.03.11:626][189]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-19.03.11:634][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-19.03.11:635][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.03.11:657][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.03.11:660][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.10-19.03.11:726][194]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.10-19.03.47:560][492]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.03.47:588][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.10-19.03.47:713][492]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap_Auto56000187A42ED4ED3AED18F9E76050152.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2019.10.10-19.03.47:716][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.147
+[2019.10.10-19.03.47:716][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.147
+[2019.10.10-19.04.24:952][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2019.10.10-19.05.23:198][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.05.23:306][945]Cmd: MODE GRID=0
+[2019.10.10-19.05.24:544][ 92]Cmd: MODE GRID=1
+[2019.10.10-19.05.27:713][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.05.27:821][482]Cmd: MODE GRID=0
+[2019.10.10-19.05.28:421][553]Cmd: MODE GRID=1
+[2019.10.10-19.05.51:842][358]LogEditorViewport: Clicking Background
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B505F9EA8-4924-97C4-FAB0-3C8FE88C5C2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=679a10a74ce83ec653ed129b976b11c5%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: request failed, libcurl error: 0 (No error)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x262fe74bf70 [can pipeline])
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.108.254) port 443 (#23))
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 7 (Closing connection 23)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: 0000026285FBD080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.10-19.06.47:999][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B505F9EA8-4924-97C4-FAB0-3C8FE88C5C2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=679a10a74ce83ec653ed129b976b11c5%7C%7C45a01713-8a2d-4501-9f86-229c8dab8199&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.10-19.09.00:732][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.10.10-19.09.03:534][354]Cmd: EDIT COPY
+[2019.10.10-19.09.03:806][386]Cmd: EDIT PASTE
+[2019.10.10-19.09.21:590][507]LogEditorViewport: Clicking Background
+[2019.10.10-19.09.33:440][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2019.10.10-19.09.35:717][197]Cmd: DELETE
+[2019.10.10-19.09.35:717][197]Cmd: ACTOR DELETE
+[2019.10.10-19.09.35:718][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.10-19.09.35:740][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.10-19.09.35:740][197]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.10-19.09.44:615][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.10.10-19.09.45:840][405]Cmd: EDIT COPY
+[2019.10.10-19.09.46:063][431]Cmd: EDIT PASTE
+[2019.10.10-19.10.09:046][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2019.10.10-19.10.10:404][326]Cmd: EDIT COPY
+[2019.10.10-19.10.10:631][352]Cmd: EDIT PASTE
+[2019.10.10-19.10.20:157][486]LogEditorViewport: Clicking Background
+[2019.10.10-19.10.24:474][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2019.10.10-19.10.30:306][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2019.10.10-19.10.36:545][440]LogEditorViewport: Clicking Background
+[2019.10.10-19.10.37:785][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube54)
+[2019.10.10-19.10.51:825][261]LogEditorViewport: Clicking Background
+[2019.10.10-19.10.53:056][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2019.10.10-19.11.00:479][291]LogEditorViewport: Clicking Background
+[2019.10.10-19.11.01:292][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2019.10.10-19.11.05:528][891]LogEditorViewport: Clicking Background
+[2019.10.10-19.11.10:624][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2019.10.10-19.11.12:130][679]LogEditorViewport: Clicking Background
+[2019.10.10-19.11.34:503][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.11.34:606][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2019.10.10-19.12.00:593][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.12.00:739][416]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.10-19.12.04:297][839]LogEditorViewport: Clicking Background
+[2019.10.10-19.12.07:024][165]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.12.07:052][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.10-19.12.07:179][165]LogSavePackage: Moving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Saved/FirstPersonExampleMap0F0C601E48CC8E0DB364069458D7E064.tmp' to '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-19.12.07:179][165]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2019.10.10-19.12.07:681][165]LogFileManager: Error: Error deleting file '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'.
+[2019.10.10-19.12.07:681][165]LogSavePackage: Error: Error saving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-19.12.07:686][165]EditorErrors: New page: Save Output
+[2019.10.10-19.12.07:686][165]EditorErrors: Warning: Error saving '../../../../../../Users/cjones4/Documents/GitHub/JonesEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-19.12.09:442][372]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-19.12.09:445][372]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-19.12.17:300][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2019.10.10-19.12.45:988][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.12.46:092][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.10.10-19.12.59:715][250]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.13.02:982][641]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.13.15:332][107]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.10-19.13.17:792][397]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.10-19.13.19:156][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.13.19:264][570]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-19.13.19:270][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.13.19:270][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-19.13.19:270][570]PIE: New page: PIE session: FirstPersonExampleMap (Oct 10, 2019, 11:13:19 AM)
+[2019.10.10-19.13.19:270][570]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-19.13.19:283][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012359s)
+[2019.10.10-19.13.19:284][570]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.10-19.13.19:284][570]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2019.10.10-19.13.19:284][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013725s)
+[2019.10.10-19.13.19:306][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.10-19.13.19:337][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-19.13.19:457][570]LogInit: FAudioDevice initialized.
+[2019.10.10-19.13.19:465][570]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-19.13.19:468][570]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.10-15.13.19
+[2019.10.10-19.13.19:468][570]LogWorld: Bringing up level for play took: 0.002183
+[2019.10.10-19.13.19:468][570]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.10-19.13.19:470][570]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.721
+[2019.10.10-19.13.19:470][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.14.03:754][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.14.03:755][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.14.03:755][876]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-19.14.03:755][876]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-19.14.03:766][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-19.14.03:766][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.14.03:789][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.14.03:792][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.10-19.14.03:859][881]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.10-19.15.49:033][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.10-19.15.50:450][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.15.50:544][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
